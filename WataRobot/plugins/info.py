@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from configs.main_config import HANDLERS
-from configs.info_config import user_info_text, chat_info_text
+from configs.info_config import *
 from WataRobot.plugins.modules.methods import *
 
 
